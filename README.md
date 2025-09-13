@@ -73,4 +73,3 @@ Let’s collaborate! I’m open to projects, mentorship, or job opportunities.
 
 - [LinkedIn](https://www.linkedin.com/in/eyukaz)  
 - [Twitter](https://twitter.com/EyuKaz)  
-- [Email](mailto:eyukaz@example.com)
