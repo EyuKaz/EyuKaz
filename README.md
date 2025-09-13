@@ -17,13 +17,6 @@ Hi there! I'm **EyuKaz**, a software developer and WordPress expert with a passi
 
 ## 📂 Featured Projects
 
-### [KazServer](https://github.com/EyuKaz/KazServer)  
-A server management platform built to streamline server operations and improve reliability.  
-**Key Features:**  
-- Real-time monitoring & alerts  
-- Automated backups & recovery  
-- Intuitive admin interface  
-
 ### [QIMEM](https://github.com/Qimem/QIMEM)  
 A cryptography toolkit designed for developers and enterprises.  
 **Highlights:**  
@@ -31,12 +24,20 @@ A cryptography toolkit designed for developers and enterprises.
 - Easy integration with apps  
 - Developer-friendly documentation  
 
-### [QimemWP](https://github.com/EyuKaz/QimemWP)  
+### [QimemWP](https://github.com/EyuKaz/QimemWP) (still in dev) 
 A WordPress plugin enhancing content management and engagement.  
 **Features:**  
+- Voice Assisted building
 - Seamless WordPress integration  
 - Advanced content tagging & categorization  
 - User-friendly interface for content creators  
+
+### [KazServer](https://github.com/EyuKaz/KazServer)  
+A server management platform built to streamline server operations and improve reliability.  
+**Key Features:**  
+- Real-time monitoring & alerts  
+- Automated backups & recovery  
+- Intuitive admin interface  
 
 ---
 
