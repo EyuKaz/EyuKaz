@@ -66,12 +66,6 @@ I combine **technical expertise**, **problem-solving skills**, and **creativity*
 
 ---
 
-## 📈 GitHub Stats
-
-![EyuKaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EyuKaz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
 ## 📬 Connect With Me
 
 Let’s collaborate! I’m open to projects, mentorship, or job opportunities.  
