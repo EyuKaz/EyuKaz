@@ -46,7 +46,7 @@ Here’s a selection of websites I’ve built or contributed to, through freelan
 
 - [Meskott Culinary](http://www.meskottculinary.com/) – WordPress website for a culinary brand  
 - [Romina PLC](https://rominaplc.com/) – Corporate WordPress website  
-- [Lalyza](https://www.lalyza.com.au/) – WordPress website for an Australian business  
+- [Lalyza](https://www.lalyza.com.au/) – Odoo website for an Australian business  
 - [Chapa Developer Portal](https://developer.chapa.co/) – Documentation & developer portal (Lead Technical Writer)  
 - [Koba Patisserie](https://kobapatisserie.com/) – Bakery website with custom WordPress functionality  
 - [Golden City Car Rental](https://goldencitycarrental.ae/) – WordPress booking and rental portal  
