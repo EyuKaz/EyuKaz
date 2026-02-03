@@ -1,1 +1,1 @@
-# 👨‍💻 EyuKaz | Software Developer & WordPress Specialist
+# 👨‍💻 Writer. Dev.
